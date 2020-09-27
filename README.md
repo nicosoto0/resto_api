@@ -3,7 +3,6 @@
 Repositoy contains code of API for the Resto App.
 
 ## **Prerequisites**
----
 
 - Python 3 (or above).
 
@@ -13,7 +12,6 @@ Repositoy contains code of API for the Resto App.
 
 
 ## **Use Guide**
----
 
 This guide is done using `MacOs`, `Python 3.8`, `pip` and `virtualenv`.  
 
